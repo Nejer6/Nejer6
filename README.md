@@ -1,6 +1,6 @@
 # Nejer6
 
-## I am Nikita, a software developer specializing in the Android platform. In addition to this, I have a strong background in full-stack development, capable of creating complex and innovative solutions, encompassing both client and server-side components of applications.
+## I'm Nikita, an Android software developer with a background in full-stack development. I create complex and innovative solutions, covering both client and server-side aspects of applications.
 
 ### Langages and Tools
 ![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
